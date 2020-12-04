@@ -1,0 +1,11 @@
+{
+    "id": "#",
+    "image": "Image",
+    "name": "Name",
+    "description": "Description",
+    "height": "Height",
+    "weight": "Weight",
+    "type": "Type",
+    "graphTitle": "Pokemons' Height",
+    "tableTitle": "Most wanted Pokemons"
+}
