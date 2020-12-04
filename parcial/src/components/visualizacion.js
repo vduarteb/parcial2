@@ -18,7 +18,7 @@ function Visualizacion(elemento) {
         }
         });
 
-        const width = 700;
+        const width = 800;
         const height = 500;
         const margin = { top: 10, left: 50, bottom: 40, right: 10 };
         const iwidth = width - margin.left - margin.right;
